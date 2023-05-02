@@ -33,6 +33,4 @@ Hankuk University of Foreign Studies Computer & Engineering System (CES)
 </p>
 
 ##### :mag: SNS to contact me
-Click[<p>
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-<p/>](https://www.instagram.com/yekni_/)
+<a href="https://www.instagram.com/hongssup/“><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yekni_/"/></a>
