@@ -25,3 +25,11 @@ Hankuk University of Foreign Studies Computer & Engineering System (CES)
   <img src="https://img.shields.io/badge/C++-033963?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
+
+##### :e-mail: E-mail to contact me
+![Gmail](https://img.shields.io/badge/Gmail-park28525%40gmail.com-critical)
+![NAVER](https://img.shields.io/badge/NAVER-park28525%40naver.com-success)
+<p>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NAVER-03C75A?style=flat-square&logo=naver&logoColor=white"/>
+</p>
