@@ -27,8 +27,6 @@ Hankuk University of Foreign Studies Computer & Engineering System (CES)
 </p>
 
 ##### :e-mail: E-mail to contact me
-![Gmail](https://img.shields.io/badge/Gmail-park28525%40gmail.com-critical)
-![NAVER](https://img.shields.io/badge/NAVER-park28525%40naver.com-success)
 <p>
   <img src="https://img.shields.io/badge/park28525@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   <img src="https://img.shields.io/badge/park28525@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/>
