@@ -21,5 +21,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-033963?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-
 </p>
