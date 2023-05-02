@@ -1,4 +1,4 @@
-### "Hello World!, Hello Inkey!" 👋
+## "Hello World!, Hello Inkey!" 👋
 
 <!--
 **seoharuss/seoharuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🌱 I’m currently learning ...
-https://img.shields.io/badge/<https://blog.kakaocdn.net/dn/d5VJCC/btqy6TtwnLa/PZJRkDEagCFpMDi8Mr0Bs0/img.png>-<C>-<yellow>
+### 🌱 I’m currently learning ...
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+</p>
