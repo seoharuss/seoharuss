@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 ##### 🌱 I’m currently learning ...
 <p>
   <img src="https://img.shields.io/badge/c-00599C?style=flat-square&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c++-033963?style=flat-square&logo=c++&logoColor=white"/>
 </p>
