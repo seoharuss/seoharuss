@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 -->
 ## 🔭 currently working on ...
 <img src="https://i.namu.wiki/i/z-yNs5UIyDmkFsOXtt7O_NkbQV3SrwztT5ElFmDL0aZeE-OHONSVkNhBfsTHlwhMlsQJVyBNOtNGAyWjdw4Bbw.svg" width="100" height="100"/>
-Hankuk University of Foreign Studies Computer & Engineering System (CES)
+Hankuk University of Foreign Studies 
+Computer & Engineering System (CES)
 
 ## 🌱 currently learning ...
 
