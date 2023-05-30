@@ -43,5 +43,5 @@ Computer & Engineering System (CES)
 
 ## :mag: SNS to contact me
 <a>
-  <href="https://www.instagram.com/yekni_/“><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+  <href="https://www.instagram.com/yekni_/“><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yekni_/"/>
 </a>
