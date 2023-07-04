@@ -35,13 +35,9 @@ Computer & Engineering System (CES)
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 </p>
 
-## :e-mail: E-mail to contact me
+## :e-mail: To contact me :e-mail:
 <p>
   <img src="https://img.shields.io/badge/park28525@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   <img src="https://img.shields.io/badge/park28525@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/>
-</p>
-
-## :mag: SNS to contact me
-<a>
   <href="https://www.instagram.com/yekni_/“><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yekni_/"/>
-</a>
+</p>
