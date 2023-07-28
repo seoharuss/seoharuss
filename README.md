@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=random&height=200&section=header&text=Popular%20Code&fontSize=60&fontColor=000000&textBg=false&animation=twinkling&fontAlign=67&fontAlignY=25&desc=Welcome%20to%20my%20world!&descSize=20&descAlign=67&descAlignY=43&rotate=13&stroke=d6ace6&strokeWidth=2)
-# "Welcome to my World !" 🔑
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoharuss&count_bg=%2311D11F&title_bg=%23050505&icon=github.svg&icon_color=%23E7E7E7&title=Today%27s+Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![seoharuss GitHub stats](https://github-readme-stats.vercel.app/api?username=seoharuss&show_icons=true&theme=dracula)
