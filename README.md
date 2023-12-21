@@ -7,6 +7,7 @@
 [![Solved.ac.Backjoon Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=noah28525)](https://solved.ac/noah28525)
 -->
 
+
 <!--
 **seoharuss/seoharuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
