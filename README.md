@@ -46,8 +46,6 @@ Here are some ideas to get you started:
 ##### 📑Sub Language & Learning Language
 <p>
 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-
   <img src="https://img.shields.io/badge/C++-033963?style=flat-square&logo=cplusplus&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -55,6 +53,10 @@ Here are some ideas to get you started:
 
 ##### ❔interesting
 <p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
