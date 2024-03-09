@@ -29,9 +29,8 @@ Here are some ideas to get you started:
 ## 🔭 currently working
 <center>
   Hankuk University of Foreign Studies<br>
-  Computer & Engineering System (CES)
+  Computer & Engineering System (CES)<br>
 </center>
-
 
 
 ##### 🔖Main Languages
