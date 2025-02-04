@@ -33,5 +33,4 @@
 ##### :e-mail: Contact
 <p>
   <img src="https://img.shields.io/badge/park28525@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/park28525@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/>
 </p>
